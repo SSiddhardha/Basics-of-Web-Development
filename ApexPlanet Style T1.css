@@ -1,0 +1,144 @@
+.mainhead{
+    text-align: center;
+    color: white;
+    background-color: #015958;
+    margin-top: 0%;
+    font-size: 40px;
+    height: 70px;
+    padding-top: 10px;
+}
+
+img{
+    height: 300px;
+    width: 600px;
+}
+
+.about{
+    position: absolute;
+    color: #015958;
+    border: 5px solid #015958;
+    right: 100px;
+    top: 120px;
+}
+
+.about h2{
+    font-size: 40px;
+}
+
+.about p{
+    font-size: 20px;
+}
+
+.aboutsub{
+    padding: 40px;
+}
+
+.aboutus{
+    position: absolute;
+    color: #015958;
+    border: 5px solid #015958;
+    top: 500px;
+    left: 75px;
+}
+
+.aboutus div{
+    padding: 40px;
+}
+.aboutus p{
+    font-size: 20px;
+}
+.aboutus h2{
+    font-size: 40px;
+}
+.internship{
+    position: absolute;
+    color: #015958;
+    border: 5px solid #015958;
+    right: 180px;
+    top: 500px;
+}
+.internship div{
+    padding: 40px;
+}
+.internship h2{
+    font-size: 40px;
+}
+.internship p{
+    font-size: 20px;
+}
+.internship a{
+    color: white;
+    background-color: #015958;
+    padding: 10px;
+    border-radius: 50px;
+}
+.client{
+    position: absolute;
+    color: #015958;
+    border: 5px solid #015958;
+    top: 950px;
+    left: 75px;
+}
+.client h2{
+    font-size: 40px;
+}
+.client div{
+    padding: 40px;
+}
+.client img{
+    height: 150px;
+    width: 150px;
+}
+.sns{
+    position: absolute;
+    color: #015958;
+    border: 5px solid #015958;
+    right: 150px;
+    top: 1100px;
+}
+.sns h2{
+    font-size: 40px;
+}
+.sns div{
+    padding: 40px;
+}
+.sns img{
+    height: 90px;
+    width: 90px;
+}
+.contact{
+    position: absolute;
+    color: #015958;
+    border: 5px solid #015958;
+    top: 1400px;
+    left: 75px;
+}
+.contact div{
+    padding: 40px;
+}
+.contact h2{
+    font-size: 40px;
+}
+.contact h3{
+    font-size: 20px;
+}
+.reglog{
+    position: absolute;
+    color: #015958;
+    border: 5px solid #015958;
+    top: 1500px;
+    right: 400px;
+}
+.reglog div{
+    padding: 40px;
+}
+.reglog h2{
+    font-size: 40px;
+}
+.reglog button{
+    color: white;
+    background-color: #015958;
+    height:80px;
+    border-radius: 10px;
+    width: 150px;
+}
